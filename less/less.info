@@ -1,0 +1,9 @@
+
+name = "LESS CSS Preprocessor"
+description = "Allows themes or modules to use LESS files."
+
+core = 7.x
+
+configure = admin/config/development/less
+
+;with patch http://drupal.org/files/issues/less-add-less-path-variable-1246308-5.patch
